@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyy/Function_Bag/inverse_robot_dancer/src/main.cpp
+iostream
+-
+time.h
+-
+unistd.h
+-
+vector
+-
+utility
+-
+sstream
+-
+math.h
+-
+string
+-
+boost/numeric/ublas/matrix.hpp
+-
+
